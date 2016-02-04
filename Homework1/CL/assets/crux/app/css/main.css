@@ -1,0 +1,15 @@
+.login-background{
+  width:218px; 
+  height: 270px; 
+  margin: 0 Auto; 
+}
+
+.holiday{
+  margin-top: 100px;
+  width: 500px;
+  margin-left: 350px;
+  border-width: 1px;
+  border-color: orange;
+  border-style: solid;
+  text-align: center;
+}
